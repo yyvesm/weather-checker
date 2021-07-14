@@ -4,4 +4,4 @@ function getWeatherByZip() {
 return fetch(URL)
 .then(res => res.json())
 }
-getWeatherByZip()
+

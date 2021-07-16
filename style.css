@@ -14,11 +14,12 @@ input {
     margin: 0px 585px 0px
 }
 
-p {
+div {
     text-align: center;
     font-family: monospace;
     font-size: 18px;
 }
+
 
 body {
     background-image: url("https://wallpaperaccess.com/full/2683869.jpg");

@@ -8,7 +8,6 @@ return fetch(URL)
     const weather = data.weather[0].description
     const temp = data.main.temp
     const feelsLike = data.main.feels_like
-    const notZip = data.message
     
     
     cityTag.innerText = city
@@ -16,5 +15,5 @@ return fetch(URL)
     tempTag.innerText = temp
     feelsLikeTag.innerText = feelsLike
  })
-}}
-
+}
+}

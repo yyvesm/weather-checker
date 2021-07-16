@@ -13,5 +13,3 @@ zipcodeSearch.addEventListener('keypress', function (e) {
    getWeatherByZip(inputVal) 
    }
    })
-
-

@@ -11,15 +11,19 @@ header {
 }
 
 input {
-    margin: 0px 585px 0px
+    margin: 0px 585px 0px;
 }
 
-div {
+p {
     text-align: center;
     font-family: monospace;
     font-size: 18px;
 }
 
+button {
+    margin: 0px 630px 0px;
+    font-family: monospace;
+}
 
 body {
     background-image: url("https://wallpaperaccess.com/full/2683869.jpg");

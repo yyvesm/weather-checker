@@ -9,3 +9,10 @@ zipcodeSearch.addEventListener('keypress', function (e) {
             
       }
 })
+
+const helloButton = document.querySelector('#hellobutton')
+
+helloButton.addEventListener('click', () =>
+alert('Hi there !'))
+
+

@@ -4,7 +4,7 @@ A website that takes in a zipcode and returns the city and weather of that zipco
 
 # How to Install
 
-1. Clone the reposition.
+1. Clone the repository.
 2. Go to the weather-checker directory and open 'index.html' in a browser.
 
 # API
